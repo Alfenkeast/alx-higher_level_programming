@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 Python - Network #0
@@ -42,3 +43,6 @@ NOTE: The curl behavior in all Bash scripts were written to interact with a serv
 
 102-catch_me.sh: Bash script that sends a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me! in the repsonse body.
 >>>>>>> 8599eca3ec34e1d896d320cb5fd8cee7667050e2
+=======
+0x10. Python - Network #0
+>>>>>>> a7f5cd0dbaad2d99b88695e7beca4414572536b3
